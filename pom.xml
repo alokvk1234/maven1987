@@ -38,4 +38,4 @@
         <url>http://35.188.201.82:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
  </distributionManagement>
-  
+</project>
